@@ -172,7 +172,7 @@ publications:
       - title: Time-Dependent Dielectric Breakdown of Commercial 1.2 kV 4H-SiC Power MOSFETs. 
         link: "https://ieeexplore.ieee.org/abstract/document/9463426"
         authors: Tianshi Liu, Shengnan Zhu, Marvin H. White, Arash Salemi, David Sheridan, and Anant K. Agarwal.
-        conference: IEEE Journal of the Electron Devices Society, 2021
+        journal: IEEE Journal of the Electron Devices Society (J-EDS), 2021
 
       - title: Monolithic Integration of Lateral HV Power MOSFET with LV CMOS for SiC Power IC Technology.
         link: "https://ieeexplore.ieee.org/abstract/document/9452235"
