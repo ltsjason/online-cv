@@ -155,8 +155,8 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: Time-Dependent Dielectric Breakdown of Commercial 1.2 kV 4H-SiC Power MOSFETs
-        link: https://ieeexplore.ieee.org/abstract/document/9463426
-        authors: Liu, T., Zhu, S., White, M.H., Salemi, A., Sheridan, D., and Agarwal, A.K.
+        link: "https://ieeexplore.ieee.org/abstract/document/9463426"
+        authors: Liu, Tianshi, Shengnan Zhu, Marvin H. White, Arash Salemi, David Sheridan, and Anant K. Agarwal.
         conference: IEEE Journal of the Electron Devices Society, 2021
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
