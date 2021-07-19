@@ -176,8 +176,8 @@ publications:
 
       - title: Monolithic Integration of Lateral HV Power MOSFET with LV CMOS for SiC Power IC Technology.
         link: "https://ieeexplore.ieee.org/abstract/document/9452235"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Sundar Babu Isukapati, Hua Zhang, <u>Tianshi Liu</u>, Emran Ashik, Bongmook Lee, Adam J Morgan, Woongje Sung, Ayman Fayed, Anant K Agarwal.
+        conference: 2021 33rd International Symposium on Power Semiconductor Devices and ICs (ISPSD)
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
