@@ -156,22 +156,22 @@ publications:
     papers:
       - title: Effects of Area-dependent Defects on the Gate Oxide Reliability of Large Area Planar and Trench SiC Power MOSFETs. (in preparation)
         link:
-        authors: Tianshi Liu, Shengnan Zhu, Marvin H. White, and Anant K. Agarwal.
+        authors: <u>Tianshi Liu</u>, Shengnan Zhu, Marvin H. White, and Anant K. Agarwal.
         conference:
         
       - title: Impact of JFET Region Width and Doping on the Reliability and Performance Trade-Off of the 650 V Planar 4H-SiC Power MOSFETs. (in preparation)
         link:
-        authors: Tianshi Liu, Shengnan Zhu, Arash Salemi, David Sheridan, Marvin H. White, and Anant K. Agarwal.
+        authors: <u>Tianshi Liu</u>, Shengnan Zhu, Arash Salemi, David Sheridan, Marvin H. White, and Anant K. Agarwal.
         conference:
         
       - title: SPICE Modeling and Circuit Demonstration of a SiC Power IC Technology. (in preparation)
         link:
-        authors: Tianshi Liu, Hua Zhang, Sundar Babu Isukapati, Emaran Ashik, Adam J. Morgan, Bongmook Lee, Woongje Sung, Ayman Fayed, Marvin H. White, and Anant K. Agarwal.
+        authors: <u>Tianshi Liu</u>, Hua Zhang, Sundar Babu Isukapati, Emaran Ashik, Adam J. Morgan, Bongmook Lee, Woongje Sung, Ayman Fayed, Marvin H. White, and Anant K. Agarwal.
         conference: 
 
       - title: Time-Dependent Dielectric Breakdown of Commercial 1.2 kV 4H-SiC Power MOSFETs. 
         link: "https://ieeexplore.ieee.org/abstract/document/9463426"
-        authors: Tianshi Liu, Shengnan Zhu, Marvin H. White, Arash Salemi, David Sheridan, and Anant K. Agarwal.
+        authors: <u>Tianshi Liu</u>, Shengnan Zhu, Marvin H. White, Arash Salemi, David Sheridan, and Anant K. Agarwal.
         conference: IEEE Journal of the Electron Devices Society (J-EDS), 2021
 
       - title: Monolithic Integration of Lateral HV Power MOSFET with LV CMOS for SiC Power IC Technology.
@@ -181,7 +181,7 @@ publications:
 
       - title: Investigation of Gate Leakage Current Behavior for Commercial 1.2 kV 4H-SiC Power MOSFETs.
         link: "https://ieeexplore.ieee.org/abstract/document/9405230"
-        authors: Shengnan Zhu, Tianshi Liu, Marvin H White, Anant K Agarwal, Arash Salemi, and David Sheridan.
+        authors: Shengnan Zhu, <u>Tianshi Liu</u>, Marvin H White, Anant K Agarwal, Arash Salemi, and David Sheridan.
         conference: 2021 IEEE International Reliability Physics Symposium (IRPS)
 
 skills:
