@@ -46,11 +46,11 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Test.
+    summary: My long term carrer goal is to become a research and designer working in SiC technology.
 education:
     - degree: Ph.D. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2018 - Present
+      time: 2018 Aug - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -61,7 +61,7 @@ education:
           - Bullet point
     - degree: M.S. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2016 - 2018
+      time: 2016 Aug - 2018 May
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,7 +72,7 @@ education:
           - Bullet point
     - degree: B.S. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2012 - 2015
+      time: 2012 Aug - 2015 Dec
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,21 +83,13 @@ education:
           - Bullet point
 
 experiences:
-    - role: Very Good Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Research Associate (advised by Dr. Anant Agarwal)
+      time: 2018 Aug - Present
+      company: Wide Bnadgap Power Device Group, The Ohio State University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        My research interets include xxx. Key Projects:
+          - SiC SMART Power ICs
+          - SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
