@@ -104,7 +104,8 @@ projects:
 
       - title: SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
         link: 
-        tagline: Investigating the reliability issues of SiC power MOSFETs for electrified powertrains. 
+#         tagline: Investigating the reliability issues of SiC power MOSFETs for electrified powertrains. 
+           - bullet point?
 
 
 publications:
