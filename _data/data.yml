@@ -144,6 +144,28 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/9405230"
         authors: Shengnan Zhu, <u>Tianshi Liu</u>, Marvin H White, Anant K Agarwal, Arash Salemi, and David Sheridan.
         conference: 2021 IEEE International Reliability Physics Symposium (IRPS)
+        
+      - title: 3.3-kV SiC MOSFET Performance and Short-Circuit Capability.
+        link: "https://ieeexplore.ieee.org/abstract/document/9360270"
+        authors: Diang Xing, Chen Xie, Ke Wang, <u>Tianshi Liu</u>, Boxue Hu, Jin Wang, Anant Agarwal, Ranbir Singh, Stanley Atcitty
+        conference: 2020 IEEE Workshop on Wide Bandgap Power Devices and Applications in Asia (WiPDA Asia)
+        
+      - title: Threshold Voltage Instability of Commercial 1.2 kV SiC Power MOSFETs.
+        link: "https://ieeexplore.ieee.org/abstract/document/9129071"
+        authors: Susanna Yu, <u>Tianshi Liu</u>, Shengnan Zhu, Diang Xing, Arash Salemi, Minseok Kang, Kristen Booth, Marvin H White, Anant K Agarwal
+        conference: 2020 IEEE International Reliability Physics Symposium (IRPS)
+        
+      - title: Gate Oxide Reliability Studies of Commercial 1.2 kV 4H-SiC Power MOSFETs.
+        link: "https://ieeexplore.ieee.org/abstract/document/9129486"
+        authors: <u>Tianshi Liu</u>, Shengnan Zhu, Susanna Yu, Diang Xing, Arash Salemi, Minseok Kang, Kristen Booth, Marvin H White, Anant K Agarwal
+        conference: 2020 IEEE International Reliability Physics Symposium (IRPS)
+        
+      - title: Gate Leakage Current and Time-Dependent Dielectric Breakdown Measurements of Commercial 1.2 kV 4H-SiC Power MOSFETs.
+        link: "https://ieeexplore.ieee.org/abstract/document/8998792"
+        authors: <u>Tianshi Liu</u>, Shengnan Zhu, Susanna Yu, Diang Xing, Arash Salemi, Minseok Kang, Kristen Booth, Marvin H White, Anant K Agarwal
+        conference: 2019 IEEE 7th Workshop on Wide Bandgap Power Devices and Applications (WiPDA)
+
+        
 
 # skills:
 #     title: Skills &amp; Proficiency
