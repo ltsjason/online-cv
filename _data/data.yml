@@ -115,10 +115,10 @@ publications:
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
-#       - title: Effects of Area-dependent Defects on the Gate Oxide Reliability of Large Area Planar and Trench SiC Power MOSFETs. (in preparation)
-#         link:
-#         authors: <u>Tianshi Liu</u>, Shengnan Zhu, Marvin H. White, and Anant K. Agarwal.
-#         conference:
+      - title: "Effects of Area-dependent Defects on the Gate Oxide Reliability of Large Area Planar and Trench SiC Power MOSFETs. (in preparation)"
+        link:
+        authors: <u>Tianshi Liu</u>, Shengnan Zhu, Marvin H. White, and Anant K. Agarwal.
+        conference:
         
       - title: SPICE Modeling and Circuit Demonstration of a SiC Power IC Technology. (in preparation)
         link:
