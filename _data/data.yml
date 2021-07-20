@@ -149,10 +149,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
     papers:
       - title: Effects of Area-dependent Defects on the Gate Oxide Reliability of Large Area Planar and Trench SiC Power MOSFETs. (in preparation)
         link:
