@@ -4,7 +4,7 @@
 
 sidebar:
 #     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Tianshi Liu
@@ -50,7 +50,7 @@ career-profile:
 education:
     - degree: Ph.D. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2018 Aug - Present
+      time: 2018 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -61,7 +61,7 @@ education:
           - Bullet point
     - degree: M.S. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2016 Aug - 2018 May
+      time: 2016 - 2018 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,7 +72,7 @@ education:
           - Bullet point
     - degree: B.S. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2012 Aug - 2015 Dec
+      time: 2012 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
