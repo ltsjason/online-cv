@@ -90,28 +90,7 @@ experiences:
         My research interets include xxx. Key Projects:
           - SMART SiC Power ICs
           - SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
     title: Projects
 #     intro: >
@@ -121,23 +100,12 @@ projects:
     assignments:
       - title: SMART SiC Power ICs
         link: "https://sunypoly.edu/research/centers-programs/suny-casper/research/smart-sic-power-ics.html"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: Developing innovative process technologies for the monolithic integration of high-voltage SiC power devices and highly scalable low-voltage SiC CMOS. 
 
       - title: SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
-        link: "#"
+        link: Investigating the reliability issues of SiC power MOSFETs for electrified powertrains. 
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
