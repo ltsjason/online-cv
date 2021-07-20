@@ -46,11 +46,11 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: My long term carrer goal is to become a research and designer working in SiC technology.
+    summary: My long term carrer goal is to become a researcher/designer working in SiC technology.
 education:
     - degree: Ph.D. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2018 - Present
+      time: 2018 August- Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -61,7 +61,7 @@ education:
           - Bullet point
     - degree: M.S. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2016 - 2018 
+      time: 2016 August - 2018 May
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,7 +72,7 @@ education:
           - Bullet point
     - degree: B.S. in Electrical and Computer Engineering
       university: The Ohio State University
-      time: 2012 - 2015
+      time: 2012 August - 2015 December
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,11 +84,11 @@ education:
 
 experiences:
     - role: Graduate Research Associate (advised by Dr. Anant Agarwal)
-      time: 2018 Aug - Present
+      time: 2018 August - Present
       company: Wide Bnadgap Power Device Group, The Ohio State University
       details: |
         My research interets include xxx. Key Projects:
-          - SiC SMART Power ICs
+          - SMART SiC Power ICs
           - SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -119,11 +119,11 @@ projects:
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: SMART SiC Power ICs
+        link: "https://sunypoly.edu/research/centers-programs/suny-casper/research/smart-sic-power-ics.html"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
