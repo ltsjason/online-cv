@@ -87,7 +87,7 @@ experiences:
       time: 2018 August - Present
       company: Wide Bnadgap Power Device Group, The Ohio State University
       details: |
-        My research interets include xxx. Key Projects:
+        My research interets include xxx. Key projects:
           - SMART SiC Power ICs
           - SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
 
@@ -104,7 +104,7 @@ projects:
 
       - title: SiC MOSFETs for Automotive Electrified Powertrains (Ford-OSU Alliance)
         link: 
-        tagline: Investigating the reliability issues of SiC power MOSFETs for electrified powertrains. 
+        tagline: Investigating and identifying the reliability issues of SiC power MOSFETs for electrified powertrains. 
 
 
 
@@ -145,27 +145,27 @@ publications:
         authors: Shengnan Zhu, <u>Tianshi Liu</u>, Marvin H White, Anant K Agarwal, Arash Salemi, and David Sheridan.
         conference: 2021 IEEE International Reliability Physics Symposium (IRPS)
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
