@@ -172,17 +172,17 @@ publications:
       - title: Time-Dependent Dielectric Breakdown of Commercial 1.2 kV 4H-SiC Power MOSFETs. 
         link: "https://ieeexplore.ieee.org/abstract/document/9463426"
         authors: Tianshi Liu, Shengnan Zhu, Marvin H. White, Arash Salemi, David Sheridan, and Anant K. Agarwal.
-        journal: IEEE Journal of the Electron Devices Society (J-EDS), 2021
+        conference: IEEE Journal of the Electron Devices Society (J-EDS), 2021
 
       - title: Monolithic Integration of Lateral HV Power MOSFET with LV CMOS for SiC Power IC Technology.
         link: "https://ieeexplore.ieee.org/abstract/document/9452235"
         authors: Sundar Babu Isukapati, Hua Zhang, <u>Tianshi Liu</u>, Emran Ashik, Bongmook Lee, Adam J Morgan, Woongje Sung, Ayman Fayed, Anant K Agarwal.
         conference: 2021 33rd International Symposium on Power Semiconductor Devices and ICs (ISPSD)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Sundar Babu Isukapati, Hua Zhang, <u>Tianshi Liu</u>, Emran Ashik, Bongmook Lee, Adam J Morgan, Woongje Sung, Ayman Fayed, Anant K Agarwal.
-        conference: 2021 33rd International Symposium on Power Semiconductor Devices and ICs (ISPSD)
+      - title: Investigation of Gate Leakage Current Behavior for Commercial 1.2 kV 4H-SiC Power MOSFETs.
+        link: "https://ieeexplore.ieee.org/abstract/document/9405230"
+        authors: Shengnan Zhu, Tianshi Liu, Marvin H White, Anant K Agarwal, Arash Salemi, and David Sheridan.
+        conference: 2021 IEEE International Reliability Physics Symposium (IRPS)
 
 skills:
     title: Skills &amp; Proficiency
